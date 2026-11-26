@@ -1,8 +1,4 @@
-
-from vpython import *
-#Web VPython 3.2
-box(pos = vec(0,0,0),
-
+https://glowscript.org/#/user/dg2026215/folder/MyPrograms/program/%ED%95%9C%EC%A0%95%EC%84%A0
 
 
 
